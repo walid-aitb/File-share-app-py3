@@ -30,8 +30,7 @@ os.environ['USERPROFILE']
 
 # changing the directory to access the files desktop
 # with the help of os module
-desktop = os.path.join(os.path.join(os.environ['USERPROFILE']),
-					'OneDrive')
+desktop = os.path.join(os.path.join(os.environ['USERPROFILE']))
 os.chdir(desktop)
 
 
