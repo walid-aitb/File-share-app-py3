@@ -1,5 +1,4 @@
 # import necessary modules
-
 # for implementing the HTTP Web servers
 import http.server
 
